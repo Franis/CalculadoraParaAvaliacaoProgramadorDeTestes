@@ -1,3 +1,3 @@
-Calculadora para avaliacao de programador de testes
+Calculadora para avaliação de programador de testes
 
 
